@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="style.css">
+<h1>I LOVE PHOTOSHOP!!!!!</h1>
+<h2>too sick to attend the party?</h2>
+<h2>missed out on a snazzy pic to brag about later?</h2>
+<h3>....Noo Worries!</h3>
+<p>With Photoshop you can achieve anything you desire! Simply find a picture that you wish to blend in and with Photoshop's magic the image transforms into the Instagram post of your dreams, satisfying both FOMO and Clout.</p>
+<img src="images/ps_1.png">
+<img src="images/ps_2.png">
+<img src="images/ps_3.png">
+<img src="images/ps_4.png">
+<h3>Do you want to learn more?</h3>
+<p>Reach out to<a href="https://www.um.edu.mt/" target="_blank"> University of Malta</a> to learn more.</p>
+
+
+
+<h2>Links</h2>

@@ -1,0 +1,147 @@
+h1{
+	color: #ffabab;
+	font-size: 80px;
+	font-family: 'custom';
+	text-align: left;
+	border: 4px #de080a solid;
+	border-style: dotted;
+	background-color: rgb(0, 0, 0, 0.5);
+	padding-left: 2%;
+ 	font-weight: bold; /* Make the font thicker */
+	text-shadow: 7px 2px #000;
+	margin: 0;
+  	box-sizing: border-box;
+	letter-spacing: 2px;
+}
+h2{
+	/* border: 4px #de080a solid; */
+	background-color: rgb(0, 0, 0, 0.5);
+	font-family: 'custom4';
+	font-size: 34px;
+	margin: 0;
+  	padding: 0;
+  	box-sizing: border-box;
+	text-shadow: 0 0 25px rgb(0, 0, 0);
+	padding-bottom:1%;
+	
+}
+@font-face {
+	font-family: 'custom';
+	src: url(Ethnocentric\ Rg.otf) format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'custom2';
+	src: url(Conthrax-SemiBold.otf) format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'custom3';
+	src: url(Minecraft.ttf) format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'custom4';
+	src: url(Venus\ Rising\ Rg.otf) format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+body{
+	color:#ffabab;
+	
+
+}
+body::before{
+	content: "";
+	position:fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	height: 100%;
+	background-image: url(ps_1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	transform: scale(1.1);
+	filter: blur(8px);
+    z-index: -1;
+	
+}
+img{
+	width: 500px;
+	height:700px;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.two{
+	text-align: left;
+	padding-left: 22%;
+	color: #ebceac;
+	padding-top: 10px;
+	
+}
+.one{
+	padding-left: 2%;
+	padding-top: 1%;
+	color: #ebceac;
+	padding-bottom: 0%;
+}
+h3{
+
+	/* background-color: rgb(0, 0, 0, 0.5); */
+	font-family: 'custom';
+	font-size: 89px;
+	text-align: right;
+	padding-right: 5%;
+  	margin: 0;
+  	box-sizing: border-box;
+	color: #ffabab;
+	text-shadow: 7px 2px #000;
+
+}
+p{
+	/* border: 4px #de080a solid; */
+	background-color: rgb(0, 0, 0, 0.5);
+	font-family: 'custom2';
+	font-size: 30px;
+	width: 1050px;
+	text-align: center;
+	color: #ebceac;
+	letter-spacing: 2px;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	
+}
+.last{
+	text-align: center;
+	font-size: 45px;
+	padding-left: 4%;
+	padding-top:50px;
+	padding-bottom: 50px;
+	background-color: rgb(222, 8, 10, 0.2);
+}
+a:link{
+	color: #de080a;
+
+}
+a:hover{
+	color: #fa6026;
+}
+.linklink{
+	/* padding: 0; */
+	padding-left: 4%;
+	padding-right: 15%;
+	background-color: rgb(222, 8, 10, 0.1);
+}
